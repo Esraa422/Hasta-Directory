@@ -1,0 +1,2 @@
+# Hasta-Directory
+bulut bilisim 
